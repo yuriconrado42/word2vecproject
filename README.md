@@ -1,1 +1,1 @@
-# word2vecproject
+# Tweet Sentiment Analysis - Word2Vec
